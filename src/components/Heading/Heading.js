@@ -1,15 +1,12 @@
 import './Heading.css';
+import MetalMeta from '../MetalMeta/MetalMeta'
 
-export default function Heading(props) {
-  const totalBands = 0; 
-  const totalStyles = 0;
-
+export default function Heading() {
   return (
     <div className="heading">
       <h1>Nicole Rocha Abadie</h1>
       <p>FEW 1.2 Final Assessment</p>
-      <p>Total Bands: { totalBands }</p>
-      <p>Styles: { totalStyles }</p>
+      <MetalMeta />
     </div>
-  )
+  );
 }
