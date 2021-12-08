@@ -1,0 +1,27 @@
+.Like {
+  display: flex;
+  align-items: center;
+  cursor: default;
+  justify-content: center;
+}
+
+.like-btn {
+  background-color: #212529;
+  border: solid 1px #f8f9fa;
+  border-radius: 5px;
+}
+
+.like-btn:hover {
+  background-color: #f8f9fa;
+  border: solid 1px #f8f9fa;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-emoji {
+  margin: 0;
+}
+
+.like-count {
+  margin: 0px 10px;
+}

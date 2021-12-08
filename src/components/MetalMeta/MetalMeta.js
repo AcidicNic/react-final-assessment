@@ -13,7 +13,7 @@ export default function MetalMeta() {
   const totalStyles = styles.size;
 
   return (
-    <div className="metal-meta">
+    <div className='metal-meta'>
       <p>Total Bands: { totalBands }</p>
       <p>Styles: { totalStyles }</p>
     </div>
