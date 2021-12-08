@@ -1,0 +1,9 @@
+.MetalMeta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.MetalMeta > span {
+  margin: 5px;
+}
