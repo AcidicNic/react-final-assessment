@@ -1,0 +1,7 @@
+{
+  "short_name": "FEW Final Assessment",
+  "name": "FEW Final Assessment",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#212529"
+}
